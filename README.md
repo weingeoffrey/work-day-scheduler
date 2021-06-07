@@ -9,3 +9,6 @@ A simple calendar app that allows the user to input daily reminders into hour ti
 
 ## Live Website
 https://weingeoffrey.github.io/work-day-scheduler
+
+## Screenshots/Gifs
+>><img src="./assets/images/scheduler-showcase.gif" width="768" height="768" />
